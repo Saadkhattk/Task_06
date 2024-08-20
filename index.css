@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fenix&family=Poppins:wght@100;200;300;400;500&display=swap');
+/* 
+font-family : 'fenix , serif;
+font-family: 'poppins , sans-serif; */
+:root{
+  --main-color: #c7a17a;
+}
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family : 'fenix' , serif;
+  font-family: 'poppins' , sans-serif;
+}
