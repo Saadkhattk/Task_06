@@ -13,3 +13,22 @@ font-family: 'poppins , sans-serif; */
   font-family : 'fenix' , serif;
   font-family: 'poppins' , sans-serif;
 }
+/* yaha prr main css apply kar raha hu jss main body aati hain or body m jo apply kya ha uss ka css yaha prr apply kar raha hu */
+body{
+  background-color: #000;
+  height: 3000px;
+}
+/* yaha prr jo class dii hain "info" uss ka css apply kar raha hu */
+.info{
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 15px 50px;
+  font-size: 14px;
+}
+/* yaha prr "info main info-left" prr css ka use kr rha hu */
+.info .info-left{
+  display: flex;
+}
